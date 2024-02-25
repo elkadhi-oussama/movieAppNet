@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movieAppNet/static/css/main.0d566e5d.css",
+    "main.js": "/movieAppNet/static/js/main.8b4b0344.js",
+    "index.html": "/movieAppNet/index.html",
+    "main.0d566e5d.css.map": "/movieAppNet/static/css/main.0d566e5d.css.map",
+    "main.8b4b0344.js.map": "/movieAppNet/static/js/main.8b4b0344.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d566e5d.css",
+    "static/js/main.8b4b0344.js"
+  ]
+}
