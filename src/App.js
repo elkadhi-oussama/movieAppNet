@@ -24,7 +24,6 @@ const App = () => {
   return (
     <>
       <NavMovie />
-      <h1>hello abdo</h1>
       <div className="contentu">
         {/* <WatchMovie/> */}
 
